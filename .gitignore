@@ -2,3 +2,5 @@
 _buildroot/
 
 configs/
+
+autolinux/build/

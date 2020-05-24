@@ -1,8 +1,0 @@
-#
-# Automatically generated file; DO NOT EDIT.
-#
-
-config BR2_EXTERNAL_AUTOLINUX_PATH
-	string
-	default "/home/fabien/Documents/work/buildroot/autolinux"
-

@@ -1,0 +1,8 @@
+config BR2_PACKAGE_NETDATA
+	bool "netdata"
+	depends on BR2_PACKAGE_UTIL_LINUX_LIBUUID
+
+	help
+	  netdata
+	comment "netdata require libuuid"
+	        depends on !BR2_PACKAGE_UTIL_LINUX_LIBUUID

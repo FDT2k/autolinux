@@ -1,0 +1,5 @@
+config BR2_PACKAGE_MP3INFO
+	bool "mp3info"
+	help
+	  mp3info 
+

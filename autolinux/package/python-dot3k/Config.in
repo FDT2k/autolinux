@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_DOT3K
+	bool "python-dot3k"
+	depends on BR2_PACKAGE_PYTHON
+	help
+	  driver for displayotron3000
+

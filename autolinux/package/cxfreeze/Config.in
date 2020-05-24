@@ -1,0 +1,5 @@
+config BR2_PACKAGE_CXFREEZE
+	bool "cxfreeze"
+	help
+	  cxfreeze
+

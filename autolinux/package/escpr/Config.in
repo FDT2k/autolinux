@@ -1,0 +1,6 @@
+config BR2_PACKAGE_ESCPR
+	bool "escpr"
+	depends on BR2_PACKAGE_CUPS
+	help
+	  EPSON injket printers driver
+

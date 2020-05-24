@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot 2020.02.2-00005-ge298a0a8b4 Configuration
+# Buildroot 2020.02.2 Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_EXTERNAL_autolinux_PATH="/home/fabien/Documents/work/buildroot/autolinux"

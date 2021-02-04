@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# this is the init script version
+VERSION=3.4.1-r1
+
+/bin/bash
